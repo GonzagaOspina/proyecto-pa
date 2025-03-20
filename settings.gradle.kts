@@ -1,2 +1,2 @@
-rootProject.name = "proyecto-pa"
+rootProject.name = "reportesrapidos-main"
 
